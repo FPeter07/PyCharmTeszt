@@ -1,4 +1,5 @@
 def main():
+    print('Ez a program azt írja ki, hogy NASA űrhajósok között melyik a 3 leggyakoribb születési hónap, és hány szzáalékuk született akkor.')
     month = months()
     checking(month)
 
